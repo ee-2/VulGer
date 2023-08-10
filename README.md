@@ -1,6 +1,10 @@
 # VulGer
 
-VulGer is a lexicon covering items from the lower end of the German language register — terms typically considered as rough, vulgar or obscene. Instead of discrete categorical assignments it includes continuous gradings of vulgarity.
+VulGer is a lexicon covering words from the lower end of the German language register — terms typically considered rough, vulgar, or obscene. Instead of discrete categorical annotations, it includes continuous gradings of vulgarity, from -1 for most vulgar to +1 for most neutral.
+
+The 3,300 words in VulGer were gathered utilizing lexicographic resources and similarity computations based on word embeddings. The vulgarity scores were determined via crowdsourcing (data workers were German native speakers) and Best-worst scaling.
+
+Attention: The dataset contains abusive words. Use it responsibly!
 
 If you use VulGer please cite:
 
