@@ -6,7 +6,7 @@ The 3,300 words in VulGer were gathered utilizing lexicographic resources and si
 
 Attention: The dataset contains abusive words. Use it responsibly!
 
-If you use VulGer please cite:
+If you use VulGer, please cite:
 
 ```
 @inproceedings{Eder19,
